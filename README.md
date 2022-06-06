@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Peastocks (side project)
+- 🌱 I’m currently improving my skills in React/Next.js and Firebase
