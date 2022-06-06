@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 📖 I was previously working on Scala, Spark, Kafka stack
 
 
-I have 3🧢 :
+### I have 3 🧢
 - 📚 Fullstack Engineer
   - Golang, Vue, React, SQL and NoSQL databases
 - 🤖 Devops Engineer
