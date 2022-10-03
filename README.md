@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 - 🤖 Devops Engineer
   - Kubernetes, Terraform, Serverless, CDN, Google Cloud Platform, Firebase
 - 👷 Data Engineer 
-  - Scala, Spark, Kafka, ElasticSearch
+  - Scala, Spark, Kafka, ElasticSearch, Airflow
