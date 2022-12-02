@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Peastocks (side project)
-- 🌱 I’m currently improving my skills in React/Next.js and Firebase
+- 🌱 I’m currently learning Python and ML with PyTorch
 - 🎯 I'm ready for Golang, Vue.js, Google Cloud Platform, Kubernetes, Terraform stack
 - 📖 I was previously working on Scala, Spark, Kafka stack
 
