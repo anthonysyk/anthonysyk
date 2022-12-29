@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 - 📚 Fullstack Engineer
   - Golang, Vue, SQL and NoSQL databases
 - 🤖 Devops Engineer
-  - Kubernetes, Terraform, Serverless, CDN, Google Cloud Platform, Firebase
+  - Kubernetes, Terraform, Serverless, Google Cloud Platform, Firebase
 - 👷 Data Engineer 
   - Scala, Spark, Kafka, ElasticSearch, Airflow
