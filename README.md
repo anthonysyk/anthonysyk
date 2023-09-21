@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### I have 3 🧢
 - 📚 Fullstack Engineer
-  - Golang, Vue, SQL and NoSQL databases
+  - Golang, Vue, React, SQL and NoSQL databases
 - 🤖 Devops Engineer
   - Kubernetes, Terraform, Serverless, Google Cloud Platform, Firebase
 - 👷 Data Engineer 
