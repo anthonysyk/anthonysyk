@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Python and ML with PyTorch
+- 🌱 I’m currently learning Typescript and Next.js
 - 🎯 I'm ready for Golang, React, Google Cloud Platform, Kubernetes, Terraform, Postgres, Elasticsearch stack
 - 📖 I was previously working on Scala, Spark, Kafka stack
 
