@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning Python and ML with PyTorch
-- 🎯 I'm ready for Golang, Vue, React, Google Cloud Platform, Kubernetes, Terraform stack
+- 🎯 I'm ready for Golang, React, Google Cloud Platform, Kubernetes, Terraform stack
 - 📖 I was previously working on Scala, Spark, Kafka stack
 
 
 ### I have 3 🧢
 - 📚 Fullstack Engineer
-  - Golang, Vue, React, SQL and NoSQL databases
+  - Golang, React, SQL and NoSQL databases
 - 🤖 Devops Engineer
   - Kubernetes, Terraform, Serverless, Google Cloud Platform, Firebase
 - 👷 Data Engineer 
