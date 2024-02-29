@@ -15,14 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Typescript and Next.js
 - 🎯 I'm ready for Golang, React, Google Cloud Platform, Kubernetes, Terraform, Postgres, Elasticsearch stack
 - 📖 I was previously working on Scala, Spark, Kafka, Airflow stack
 
 
 ### I have 3 🧢
 - 📚 Fullstack Engineer
-  - Golang, React, SQL and NoSQL databases
+  - Golang, Typescript, React/Next.js, SQL and NoSQL databases
 - 🤖 Devops Engineer
   - Kubernetes, Terraform, Docker, Serverless, Google Cloud Platform
 - 👷 Data Engineer 
