@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🎯 I'm ready for Golang, React, Google Cloud Platform, Kubernetes, Terraform, Postgres, Elasticsearch stack
+- 🎯 I'm ready for Golang, React/Next.js, Google Cloud Platform, Kubernetes, Terraform, Postgres, Elasticsearch stack
 - 📖 I was previously working on Scala, Spark, Kafka, Airflow stack
 
 
