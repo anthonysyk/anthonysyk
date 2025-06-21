@@ -46,5 +46,3 @@
 ![gRPC](https://img.shields.io/badge/grpc-4285F4?logo=grpc&logoColor=white&style=for-the-badge)
 
 ## 🌐 Connect with me: <a href="https://linkedin.com/in/anthony-ssi-yan-kai"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="25" /></a>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anthonysyk&theme=tokyonight" alt="GitHub Streak" width="70%" />
