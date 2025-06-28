@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Anthony!
+# Anthony S.
 
 ### Full Stack Engineer specializing in Go, React & Cloud technologies 🇫🇷
 
