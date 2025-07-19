@@ -8,10 +8,9 @@
 
 ## 🚀 Check out my work
 
-<p>
-  🖼️ <strong>Articles</strong> → <a href="https://anthonysyk.github.io" target="_blank rel="noopener noreferrer"">https://anthonysyk.github.io</a><br>
-  📝 <strong>Portfolio</strong> → <a href="https://anthonysyk.github.io/portfolio" target="_blank" rel="noopener noreferrer">https://anthonysyk.github.io/portfolio</a>
-</p>
+📝 **Blog** → [anthonysyk.github.io](https://anthonysyk.github.io)
+
+🖼️ **Portfolio** → [anthonysyk.github.io/portfolio](https://anthonysyk.github.io/portfolio)
 
 ## 🛠️ Tech Stack
 
