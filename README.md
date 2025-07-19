@@ -6,7 +6,11 @@
 
 ## 🌐 Connect with me: <a href="https://linkedin.com/in/anthony-ssi-yan-kai"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="25" /></a>
 
-## 📔 Discover my articles and portfolio: https://anthonysyk.github.io/
+## 🚀 Check out my work
+
+📝 **Blog** → [https://anthonysyk.github.io](https://anthonysyk.github.io)
+
+🖼️ **Portfolio** → [https://anthonysyk.github.io/portfolio](https://anthonysyk.github.io/portfolio)
 
 ## 🛠️ Tech Stack
 
