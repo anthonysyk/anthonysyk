@@ -9,8 +9,8 @@
 ## 🚀 Check out my work
 
 <p>
-  🖼️ <strong>Articles</strong> → <a href="https://anthonysyk.github.io" target="_blank">https://anthonysyk.github.io</a><br>
-  📝 <strong>Portfolio</strong> → <a href="https://anthonysyk.github.io/articles" target="_blank">https://anthonysyk.github.io/portfolio</a>
+  🖼️ <strong>Articles</strong> → <a href="https://anthonysyk.github.io" target="_blank rel="noopener noreferrer"">https://anthonysyk.github.io</a><br>
+  📝 <strong>Portfolio</strong> → <a href="https://anthonysyk.github.io/portfolio" target="_blank" rel="noopener noreferrer">https://anthonysyk.github.io/portfolio</a>
 </p>
 
 ## 🛠️ Tech Stack
