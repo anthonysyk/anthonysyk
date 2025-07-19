@@ -1,6 +1,6 @@
 # Anthony S.
 
-### Full Stack Engineer specializing in Go, React & Cloud technologies 🇫🇷
+### Full Stack Engineer specializing in Go, React & Cloud technologies
 
 🎯 **Ready for production with:** Golang • React/Next.js • Google Cloud Platform • Kubernetes • Terraform • PostgreSQL • Elasticsearch
 
